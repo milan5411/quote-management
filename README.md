@@ -78,7 +78,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/milan5411/quote-management.git
    ```
 
 2. install node modules:
