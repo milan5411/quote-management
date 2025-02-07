@@ -1,6 +1,6 @@
 # Live Demo
 
-[Quotation Management Tool](https://quotation-management-tool.vercel.app/)
+[Quotation Management Tool](https://quote-management-ten.vercel.app/)
 
 ## Dashboard UI
 
